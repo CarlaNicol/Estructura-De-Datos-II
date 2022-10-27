@@ -1,11 +1,4 @@
-'''
 
-Titulo: Estructura que me permite almacenar datos (Arbol)
-Autor : Gonzalo Tarqui Ignacio
-Fecha : 03/10/2022
-Version: 3.0
-
-'''
 from tkinter import *
 
 from Nodo import Node
