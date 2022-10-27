@@ -1,11 +1,4 @@
-'''
 
-Titulo: Estructura que me permite almacenar datos (Nodo)
-Autor : Gonzalo Tarqui Ignacio
-Fecha : 28/09/2022
-Version: 2.7
-
-'''
 #. class Nodo
 class Node:
 
