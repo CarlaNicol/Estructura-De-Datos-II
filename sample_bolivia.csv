@@ -1,0 +1,9 @@
+origen,destino,distancia,precio
+Avv stz,Atrj Trj,900,500
+Avv stz,Acb cbb,700,450
+Avv stz,Orr Orr,1000,900
+Avv stz,Lpb lpz,1200,1200
+Atrj Trj,ABn Bn,700,350
+Orr Orr,ABn Bn,900,550
+Asc sc,Lpb lpz,400,250
+Acb cbb,Asc sc,500,350
