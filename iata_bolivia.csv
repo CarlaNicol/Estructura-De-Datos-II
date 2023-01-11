@@ -1,8 +1,11 @@
-code,ubicacion
-Avv stz,Santa Cruz
-Acb cbb,Cochabamba
-Orr Orr,Oruro
-ABn Bn,Beni
-Asc sc,Santa Cruz
-Lpb lpz,La Paz
-Atrj Trj,Tarija
+code,ubicacion,nombre_del_aeropuerto
+VVI,Santa Cruz,Aeropuerto Viru Viru
+LPB,La Paz,Aeropuerto El Alto
+CBB,Cochabamba,Aeropuerto Jorge Wilsterman
+TJA,Tarija,Aerpuerto Capitan Oriel Lea Plaza
+LIM,LIMA,Aeropuerto Jorge Chavez
+CIJ,Cobija,Aeropuerto Capitan Anibal Arab
+MAD,Madrid,Aeropuerto Adolfo Suárez Madrid Barajas
+MIA,Miami,Aeropuerto de Miami
+GRU,Sao Paulo,Aeropuerto de Sao Paulo Guarulhos
+EZE,Buenos Aires,Aeropuerto Buenos Aires Ezeiza
